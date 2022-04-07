@@ -67,9 +67,9 @@
         <version>${go.wrapper.plugin.version}</version>
         <extensions>true</extensions>
         <configuration>
-          <goPath>${basedir}</goPath>
-          <enforceGoPathToEnd>true</enforceGoPathToEnd>
-          <verbose>true</verbose>
+          <!--<goPath>${basedir}</goPath>-->
+          <!--<enforceGoPathToEnd>true</enforceGoPathToEnd>-->
+          <!--<verbose>true</verbose>-->
         </configuration>
         <executions>
           <execution>

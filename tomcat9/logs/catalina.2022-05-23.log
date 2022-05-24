@@ -1,0 +1,5 @@
+23-May-2022 18:55:13.361 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/opt/tomcat9/conf/tomcat-users.xml]
+23-May-2022 18:55:43.518 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/opt/tomcat9/conf/tomcat-users.xml]
+23-May-2022 18:58:59.428 INFO [http-nio-8090-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/opt/tomcat9/webapps/sample.war]
+23-May-2022 18:59:00.419 INFO [http-nio-8090-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/opt/tomcat9/webapps/sample.war] has finished in [992] ms
+23-May-2022 19:01:34.579 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/opt/tomcat9/conf/tomcat-users.xml]

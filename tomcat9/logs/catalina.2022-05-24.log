@@ -1,0 +1,9 @@
+24-May-2022 11:54:25.810 INFO [http-nio-8090-exec-8] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/sample]
+24-May-2022 11:54:25.834 INFO [http-nio-8090-exec-10] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/opt/tomcat9/webapps/sample.war]
+24-May-2022 11:54:26.484 INFO [http-nio-8090-exec-10] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/opt/tomcat9/webapps/sample.war] has finished in [638] ms
+24-May-2022 12:07:47.374 INFO [http-nio-8090-exec-14] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/sample]
+24-May-2022 12:07:47.425 INFO [http-nio-8090-exec-14] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/opt/tomcat9/webapps/sample.war]
+24-May-2022 12:07:47.813 INFO [http-nio-8090-exec-14] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/opt/tomcat9/webapps/sample.war] has finished in [388] ms
+24-May-2022 20:48:50.872 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Reloading context [/manager]
+24-May-2022 20:48:50.903 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/manager] has started
+24-May-2022 20:48:51.722 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/manager] is completed
